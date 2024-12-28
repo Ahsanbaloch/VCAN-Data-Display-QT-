@@ -1,0 +1,82 @@
+[
+    {
+        "classes": [
+            {
+                "className": "CANDataModel",
+                "object": true,
+                "qualifiedClassName": "CANDataModel",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QAbstractListModel"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "candatamodel.h",
+        "outputRevision": 68
+    },
+    {
+        "classes": [
+            {
+                "className": "CANS_Info",
+                "methods": [
+                    {
+                        "access": "public",
+                        "name": "initializeCANInterface",
+                        "returnType": "bool"
+                    }
+                ],
+                "object": true,
+                "properties": [
+                    {
+                        "constant": true,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "dataModel",
+                        "read": "dataModel",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "CANDataModel*",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "CANS_Info",
+                "signals": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "interfaceName",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "frame",
+                                "type": "QCanBusFrame"
+                            }
+                        ],
+                        "name": "frameReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "name": "readFrame",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "cans_info.h",
+        "outputRevision": 68
+    }
+]

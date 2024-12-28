@@ -1,0 +1,14 @@
+-rootPath
+/home/ahsan/VCAN_Data/QT/DMC
+-cmake-output
+-output-file
+/home/ahsan/VCAN_Data/QT/DMC/build/.qt_plugins/Qt6_QmlPlugins_Imports_appDMC.cmake
+-importPath
+/home/ahsan/VCAN_Data/QT/DMC/build/DMC
+-importPath
+/home/ahsan/VCAN_Data/QT/DMC/build
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml
+-qrcFiles
+/home/ahsan/VCAN_Data/QT/DMC/build/.rcc/qmake_DMC.qrc
+/home/ahsan/VCAN_Data/QT/DMC/build/.rcc/appDMC_raw_qml_0.qrc

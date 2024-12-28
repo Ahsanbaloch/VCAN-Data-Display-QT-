@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "CANDataModel",
+            "object": true,
+            "qualifiedClassName": "CANDataModel",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QAbstractListModel"
+                }
+            ]
+        }
+    ],
+    "inputFile": "candatamodel.h",
+    "outputRevision": 68
+}

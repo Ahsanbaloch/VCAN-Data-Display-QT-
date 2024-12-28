@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  ".rcc/qmlcache/appDMC_Main_qml.cpp"
+  ".rcc/qmlcache/appDMC_qmlcache_loader.cpp"
+  ".rcc/qrc_appDMC_raw_qml_0.cpp"
+  ".rcc/qrc_qmake_DMC.cpp"
+  "CMakeFiles/appDMC_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/appDMC_autogen.dir/ParseCache.txt"
+  "appDMC_autogen"
+  "CMakeFiles/appDMC.dir/appDMC_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/appDMC.dir/appDMC_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/appDMC.dir/appdmc_qmltyperegistrations.cpp.o"
+  "CMakeFiles/appDMC.dir/appdmc_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/appDMC.dir/build/.rcc/qmlcache/appDMC_Main_qml.cpp.o"
+  "CMakeFiles/appDMC.dir/build/.rcc/qmlcache/appDMC_Main_qml.cpp.o.d"
+  "CMakeFiles/appDMC.dir/build/.rcc/qmlcache/appDMC_qmlcache_loader.cpp.o"
+  "CMakeFiles/appDMC.dir/build/.rcc/qmlcache/appDMC_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/appDMC.dir/build/.rcc/qrc_appDMC_raw_qml_0.cpp.o"
+  "CMakeFiles/appDMC.dir/build/.rcc/qrc_appDMC_raw_qml_0.cpp.o.d"
+  "CMakeFiles/appDMC.dir/build/.rcc/qrc_qmake_DMC.cpp.o"
+  "CMakeFiles/appDMC.dir/build/.rcc/qrc_qmake_DMC.cpp.o.d"
+  "CMakeFiles/appDMC.dir/candatamodel.cpp.o"
+  "CMakeFiles/appDMC.dir/candatamodel.cpp.o.d"
+  "CMakeFiles/appDMC.dir/cans_info.cpp.o"
+  "CMakeFiles/appDMC.dir/cans_info.cpp.o.d"
+  "CMakeFiles/appDMC.dir/main.cpp.o"
+  "CMakeFiles/appDMC.dir/main.cpp.o.d"
+  "DMC/appDMC.qmltypes"
+  "appDMC"
+  "appDMC.pdb"
+  "appDMC_autogen/mocs_compilation.cpp"
+  "appDMC_autogen/timestamp"
+  "appdmc_qmltyperegistrations.cpp"
+  "meta_types/qt6appdmc_debug_metatypes.json"
+  "meta_types/qt6appdmc_debug_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/appDMC.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

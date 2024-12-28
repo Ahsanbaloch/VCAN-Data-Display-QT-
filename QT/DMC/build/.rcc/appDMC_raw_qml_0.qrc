@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/DMC/">
+    <file alias="Main.qml">/home/ahsan/VCAN_Data/QT/DMC/Main.qml</file>
+  </qresource>
+</RCC>
+

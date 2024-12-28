@@ -1,0 +1,5 @@
+module DMC
+typeinfo appDMC.qmltypes
+prefer :/DMC/
+Main 1.0 Main.qml
+
