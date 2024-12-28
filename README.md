@@ -1,1 +1,1 @@
-# VCAN-Data-Display-QT-
+# VCAN-Data-Display-QT
